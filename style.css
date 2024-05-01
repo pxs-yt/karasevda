@@ -36,7 +36,7 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    font-family: 'Rubik', sans-serif; /* Use Google Fonts */
+    font-family: 'Nunito', sans-serif; /* Use Google Fonts */
     cursor: pointer;
 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
