@@ -34,3 +34,7 @@ document.getElementById("ep-52").onclick = function () {
 document.getElementById("ep-53").onclick = function () {
     location.href = "https://pxs-yt.github.io/karasevda/episodes/53.html"
 }
+
+document.getElementById("ep-54").onclick = function () {
+    location.href = "https://pxs-yt.github.io/karasevda/episodes/54.html"
+}
