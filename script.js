@@ -42,3 +42,11 @@ document.getElementById("ep-54").onclick = function () {
 document.getElementById("ep-55").onclick = function () {
     location.href = "https://pxs-yt.github.io/karasevda/episodes/55.html"
 }
+
+document.getElementById("ep-56").onclick = function () {
+    location.href = "https://pxs-yt.github.io/karasevda/episodes/56.html"
+}
+
+document.getElementById("ep-57").onclick = function () {
+    location.href = "https://pxs-yt.github.io/karasevda/episodes/57.html"
+}
