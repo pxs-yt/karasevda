@@ -50,3 +50,71 @@ document.getElementById("ep-56").onclick = function () {
 document.getElementById("ep-57").onclick = function () {
     location.href = "https://pxs-yt.github.io/karasevda/episodes/57.html"
 }
+
+document.getElementById("ep-58").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-58/"
+}
+
+document.getElementById("ep-59").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-59/"
+}
+
+document.getElementById("ep-60").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-60/"
+}
+
+document.getElementById("ep-61").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-61/"
+}
+
+document.getElementById("ep-62").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-62/"
+}
+
+document.getElementById("ep-63").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-63/"
+}
+
+document.getElementById("ep-64").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-64/"
+}
+
+document.getElementById("ep-65").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-65/"
+}
+
+document.getElementById("ep-66").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-66/"
+}
+
+document.getElementById("ep-67").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-67/"
+}
+
+document.getElementById("ep-68").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-68/"
+}
+
+document.getElementById("ep-69").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-69/"
+}
+
+document.getElementById("ep-70").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-70/"
+}
+
+document.getElementById("ep-71").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-71/"
+}
+
+document.getElementById("ep-72").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-72/"
+}
+
+document.getElementById("ep-73").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-73/"
+}
+
+document.getElementById("ep-74").onclick = function () {
+    location.href = "https://hds.yoturkish.app/kara-sevda-episode-74/"
+}
